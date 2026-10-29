@@ -1,0 +1,7 @@
+interface:
+  display_name: "Marketing SCI · Plan 2026-2027"
+  short_description: "Plan, áreas y responsables SCI"
+  icon_small: "./assets/sci-icon.png"
+  icon_large: "./assets/sci-icon.png"
+  brand_color: "#26537A"
+  default_prompt: "Usa $mi-skill para consultar el Plan de Marketing SCI 2026-2027 y sus responsables."
